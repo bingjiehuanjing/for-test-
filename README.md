@@ -1,2 +1,2 @@
 # for-test-
-ManaitaPlus
+for ai testing bug
